@@ -1,0 +1,16 @@
+{
+  "name": "Trading Journal",
+  "short_name": "Trader",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2452/2452207.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
